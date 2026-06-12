@@ -1,0 +1,12 @@
+content=["a","c","b","d"]
+content.sort()
+print(content)
+con=[4,6,2,1,9,0,1]
+print(sorted(con))
+print(con)
+con.sort()
+print(con)
+con.reverse()
+print(con)
+print(len(con))
+print(len(content))
